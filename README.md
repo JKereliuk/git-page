@@ -1,2 +1,2 @@
-# git-page
-Code for personal page
+# Personal Website
+Personal website written with [Jekyll](https://jekyllrb.com/)
